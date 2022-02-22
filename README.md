@@ -1,4 +1,4 @@
-# engineer-information-processing-study
+# 정보처리기사
 
 
 - 2022 정보처리기사 시험 일정 정보 http://www.q-net.or.kr/crf021.do?scheType=03
