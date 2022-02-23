@@ -10,6 +10,6 @@
 
 - 필기요약본
 
-  https://yyyy-oniiii.github.io/posts/Exam-Summary/
-  https://sincerity.tistory.com/17
+  - https://yyyy-oniiii.github.io/posts/Exam-Summary/
+  - https://sincerity.tistory.com/17
   
